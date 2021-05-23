@@ -1,14 +1,114 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "date": "2021-01-12T03:20:41.718Z",
-            "name": "Meja Lipat",
-            "serial": 1682697,
-            "stock": 6,
-            "category": "Furniture",
-            "price": 567890,
-            "status": "avaiable"
-          }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Meja Lipat",
+      "serial": 1682697,
+      "stock": 6,
+      "category": "Furniture",
+      "price": 567890,
+      "status": "avaiable"
+    },
+    {
+      "id": 2,
+      "date": "2021-01-13T03:20:41.718Z",
+      "name": "Kursi Kantor",
+      "serial": 1682698,
+      "stock": 7,
+      "category": "Furniture",
+      "price": 600890,
+      "status": "avaiable"
+    },
+    {
+      "id": 3,
+      "date": "2021-01-14T03:20:41.718Z",
+      "name": "Printer",
+      "serial": 1682697,
+      "stock": 2,
+      "category": "Electronic",
+      "price": 1000000,
+      "status": "avaiable"
+    },
+    {
+      "id": 4,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Xiaomay Redmi 5",
+      "serial": 5562697,
+      "stock": 2,
+      "category": "Handphone",
+      "price": 2500000,
+      "status": "avaiable"
+    },
+    {
+      "id": 5,
+      "date": "2021-01-14T03:20:41.718Z",
+      "name": "Parfume A",
+      "serial": 1689997,
+      "stock": 5,
+      "category": "Beauty",
+      "price": 200000,
+      "status": "avaiable"
+    },
+    {
+      "id": 6,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Jas",
+      "serial": 1682666,
+      "stock": 3,
+      "category": "Fashion",
+      "price": 5000000,
+      "status": "avaiable"
+    },
+    {
+      "id": 7,
+      "date": "2021-01-14T03:20:41.718Z",
+      "name": "Xiaomi",
+      "serial": 1666697,
+      "stock": "10",
+      "category": "Handphone",
+      "price": "5000000",
+      "status": "avaiable"
+    },
+    {
+      "id": 8,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Planar",
+      "serial": 9666697,
+      "stock": 3,
+      "category": "Electronic",
+      "price": 5000000000,
+      "status": "non-avaiable"
+    },
+    {
+      "id": 1621747812218,
+      "date": "2021-05-23",
+      "name": "Burger King",
+      "serial": "7798685",
+      "stock": 0,
+      "category": "Food & Drink",
+      "price": "50000",
+      "status": "non-avaiable"
+    },
+    {
+      "id": 1621749912666,
+      "date": "2021-05-23",
+      "name": "asdasd",
+      "serial": "9903752",
+      "stock": 0,
+      "category": "Electronic",
+      "price": "1",
+      "status": "non-avaiable"
+    },
+    {
+      "id": 1621750396850,
+      "date": "2021-05-23",
+      "name": "Burger King",
+      "serial": "0380247",
+      "stock": 0,
+      "category": "Food & Drink",
+      "price": "60000",
+      "status": "non-avaiable"
+    }
+  ]
 }
